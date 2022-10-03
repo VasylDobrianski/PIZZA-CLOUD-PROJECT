@@ -3,6 +3,7 @@ package com.cydeo.bootstrap;
 import com.cydeo.enums.Cheese;
 import com.cydeo.enums.Sauce;
 import com.cydeo.enums.Topping;
+import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 import java.util.List;
